@@ -1,0 +1,6 @@
+flask
+flask-Login
+flask-SQLAlchemy
+Werkzeug
+Jinja2
+psycopg2
